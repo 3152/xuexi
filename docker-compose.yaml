@@ -26,6 +26,7 @@ services:
             # 打开专项答题
             - ZhuanXiang=True
             # 信息推送模式：网页模式
+=6 钉钉=1 微信=2 Server酱=3 pluspush=4 telegram
             - Pushmode=6
             # 以下爱参数网页模式不需要，其他模式请根据实际情况修改
             # - "AccessToken={token}"
